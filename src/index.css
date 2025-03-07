@@ -1,0 +1,17 @@
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  /* Center text inside containers */
+  .text-center {
+    text-align: center;
+  }
+  
+  /* Styling for sections */
+  section {
+    padding: 50px 0;
+  }
